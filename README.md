@@ -26,5 +26,6 @@
 class LuizGustavo:
     def __init__(self):
         self.nome = "Luiz Gustavo"
-        self.foco = "Python e JavaScript"
+        self.foco = "Desenvolvimento Back-End"
+        self.estudos = ["Python", "JavaScript", "Java"] 
 
