@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="banner - Luiz Gustavo.gif" width="100%" alt="Luiz Gustavo — Desenvolvedor Back-End"/>
+  <img src="banner%20-%20Luiz%20Gustavo.gif" width="100%" alt="Luiz Gustavo — Desenvolvedor Back-End"/>
 
   <br/>
 
@@ -25,7 +25,7 @@
 
 <img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação de programação"/>
 
-python
+```python
 class LuizGustavo:
     def __init__(self):
         self.name = "Luiz Gustavo"
@@ -48,7 +48,7 @@ class LuizGustavo:
 
 me = LuizGustavo()
 print(me.motto())
-
+```
 
 <br clear="right"/>
 
