@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="banner%20-%20Luiz%20Gustavo.gif" width="100%" alt="Luiz Gustavo — Desenvolvedor Back-End"/>
+  <img src="banner.svg" width="100%" alt="Luiz Gustavo — Desenvolvedor Back-End"/>
 
   <br/>
 
