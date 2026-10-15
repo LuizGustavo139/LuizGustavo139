@@ -123,15 +123,7 @@ Atualmente, estou focado em evoluir minhas habilidades em desenvolvimento Back-E
 
 </div>
 
-## > connect()
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/luiz-gustavo-385564324/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"/>
-  </a>
-
-  <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:102A43,100:0D1117&height=120&section=footer" width="100%" alt="Rodapé com gradiente"/>
 
